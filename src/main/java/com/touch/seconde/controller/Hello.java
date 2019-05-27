@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
  * ClassName:{NAME}
  *
  * @date:2019/5/27 15:48
- * @author:yangshuai
+ * @author:yangshu
  */
 @RestController
 public class Hello {
